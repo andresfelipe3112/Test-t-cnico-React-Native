@@ -28,8 +28,7 @@ Sigue estos pasos para clonar el repositorio y configurar el entorno de desarrol
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/andresfelipe3112/Test-t-cnico-React-Native
    ```
 
 2. Instala las dependencias del proyecto:
