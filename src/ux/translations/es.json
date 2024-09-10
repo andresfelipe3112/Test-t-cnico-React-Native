@@ -1,0 +1,12 @@
+{
+    "login": {
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "login_button": "Iniciar Sesión"
+    },
+    "list": {
+      "pull_to_refresh": "Desliza para actualizar",
+      "details": "Detalles"
+    }
+  }
+  

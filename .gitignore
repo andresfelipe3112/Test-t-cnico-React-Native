@@ -1,0 +1,11 @@
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+.yarn
+
+# Expo files
+.expo/
+.expo-shared/
